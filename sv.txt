@@ -1,0 +1,13 @@
+1;Ange kortnummer:  
+2;Kontot är redan inloggad, eller så existerar kortnumret inte.  
+3;Ange passkod:  
+4;Inkorrekt passkod  
+5;Välkommen till Banken  
+6;(1)Saldo, (2)Uttag, (3)Insättning, (4)Byta Språk, (5)Avsluta   
+7;Nuvarande saldo är (var) dollar  
+8;Ange belopp:  
+9;Ange säkerhetskod:  
+10;Fel med Uttag: Kontrollera säkerhetskod eller beloppet  
+11;Fel med Insättning: Denna belopp kan inte insättas  
+12;(en)Engelska, (es)Spanska, (sv)Svenska  
+13;Hejdå  

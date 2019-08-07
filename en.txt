@@ -1,0 +1,13 @@
+1;Enter card number:
+2;Account is already signed in, or the card number doesn't exist.
+3;Enter passcode:
+4;Incorrect passcode
+5;Welcome to the Bank
+6;(1)Balance, (2)Withdraw, (3)Deposit, (4)Change Language, (5)Exit
+7;Current balance is (var) dollars
+8;Enter amount:
+9;Enter security code:
+10;Withdrawal error: Check security code or the amount withdrawn
+11;Deposit error: That amount can't be deposited
+12;(en)English, (es)Spanish, (sv)Swedish
+13;Goodbye

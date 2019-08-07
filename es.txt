@@ -1,0 +1,13 @@
+1;Entra numero de tarjeta:
+2;La sesion de la cuenta ya esta iniciado, o el numero de la tarjeta no existe.
+3;Entra codigo de acesso:
+4;Codigo de acesso es incorrecto
+5;Bienvenido al Banco
+6;(1)Saldo, (2)Retirar, (3)Depositar, (4)Cambiar Idioma, (5)Salir
+7;El saldo actualmente es (var) dolares
+8;Entra cantidad:
+9;Entra codigo de seguro:
+10;Error de retirada: Controla el codigo de seguridad o la cantidad retirada
+11;Error de deposito: Esa cantidad no se puede depositar
+12;(en)Ingles, (es)Espanol, (sv)Sueco
+13;Adios
